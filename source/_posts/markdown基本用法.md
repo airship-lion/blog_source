@@ -1,8 +1,11 @@
 ---
 title: markdown基本用法
-tags: [Tag1,Tag2]
-categories: [cate]
-date: 2017-10-27 23:55:31
+tags:
+  - markdown
+  - 博客工具
+categories:
+  - 技术
+date: 2017-10-30 23:55:31
 ---
 
 标题
@@ -161,5 +164,8 @@ Windowns下的MarkdownPad也用过，不过免费版的体验不是很好。
 Mac下的Mou是国人贡献的，口碑很好。
 Linux下的ReText不错。
 
-![image](http://localhost:4000/images/1509123167736.jpg)
-![image](http://localhost:4000/images/1509125741756.jpg)
+![image](https://airship-lion.github.io/images/1509123167736.jpg)
+![image](https://airship-lion.github.io/images/1509125741756.jpg)
+![image](https://airship-lion.github.io/images/1509380743583.jpg)
+![image](https://airship-lion.github.io/images/1509124759947.jpg)
+
