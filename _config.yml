@@ -101,6 +101,6 @@ admin:
 
 backup:
     type: git
-    theme: next,landscape,yilia
+    theme: next,landscape
     repository:
        github: git@github.com:airship-lion/blog_source.git,master
